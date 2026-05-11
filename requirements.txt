@@ -1,0 +1,12 @@
+pandas
+numpy
+sqlalchemy
+psycopg2
+prophet
+scikit-learn
+fastapi
+uvicorn
+requests
+matplotlib
+schedule
+python-dotenv
