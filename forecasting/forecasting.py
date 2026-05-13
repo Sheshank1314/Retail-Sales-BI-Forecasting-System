@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # PostgreSQL connection
 engine = create_engine(
-    "postgresql://postgres:postgres123@localhost:5432/retail_sales_db"
+    "postgresql://postgres:YOUR_PASSWORD@localhost:5432/retail_sales_db"
 )
 
 # Load data
