@@ -5,7 +5,7 @@ import pandas as pd
 app = FastAPI()
 
 DATABASE_URL = (
-    "postgresql://postgres:postgres123"
+    "postgresql://postgres:YOUR_PASSWORD"
     "@localhost:5432/retail_sales_db"
 )
 
