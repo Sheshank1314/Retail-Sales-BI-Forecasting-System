@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 
 DATABASE_URL = (
-    "postgresql://postgres:postgres123"
+    "postgresql://postgres:YOUR_PASSWORD"
     "@localhost:5432/retail_sales_db"
 )
 
