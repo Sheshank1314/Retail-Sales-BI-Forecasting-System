@@ -186,3 +186,5 @@ Python • PostgreSQL • Power BI • FastAPI • React.js • Prophet • SQLA
 ### GitHub Repository
 
 https://github.com/Sheshank1314/Retail-Sales-BI-Forecasting-System
+
+NOTE: Please replace "YOUR_PASSWORD" with your local PostgreSQL paasword to run the project.
